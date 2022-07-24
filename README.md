@@ -1,3 +1,5 @@
+![logo_main](https://user-images.githubusercontent.com/73255868/180647067-1fed5825-5aff-46eb-8ffe-cb1137bd9db2.png)
+
 ### Hi there 👋
 
 <!--
