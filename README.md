@@ -2,7 +2,7 @@
 
 🚀 Unlocking New Frontiers: Transitioning Careers with Front-End Web Development & UI/UX Skills 🎨✨
 
-- 🔭 I'm currently enrolled in a Frontend BootCamp with Academy Xi in Sydney, Australia. 
+- 🔭 I'm currently enrolled in a Front-End BootCamp with Academy Xi in Sydney, Australia. 
 
 - 🌱 Learning React and Angular - Projects to follow soon (watch this space).
 
