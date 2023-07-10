@@ -12,5 +12,4 @@
 
 - ⚡ Fun fact: In 1974 it cost between $15 and $22 Million to build one space suit. Accounting for inflation the cost today is about $150 million but the design remains unchanged.
   
-![Preacher 4](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/1bab67ca-baf0-4b0b-8f87-1d8218571029)
 ![Preacher_4-removebg-preview](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/fc6bd328-b9f5-4572-8b19-8484c6a475e8)
