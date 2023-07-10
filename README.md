@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="20" height="20">
+### Hi there <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
 
 
 🚀 Unlocking New Frontiers: Transitioning Careers with Front-End Web Development & UI/UX Skills 🎨✨
