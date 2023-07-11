@@ -12,8 +12,6 @@
 
 - 🌱 Learning React and Angular - Projects to follow soon (watch this space).
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia is the fear of very long words
 
 </div>
