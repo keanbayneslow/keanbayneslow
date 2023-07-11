@@ -1,4 +1,5 @@
 ### Hey there! I'm Kean. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50" align="center">
+
 <div align="center">
 🚀 Unlocking New Frontiers: Transitioning Careers with Front-End Web Development & UI/UX Skills 🎨✨
 </div>
@@ -9,34 +10,23 @@
 
 - 🌱 Learning React and Angular - Projects to follow soon (watch this space).
 
-- 💬 Ask me about literally anything you'd like. My answers might not be great, accurate or even on topic but life is a gamble. 
-
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: In 1974 it cost between $15 and $22 Million to build one space suit. Accounting for inflation the cost today is about $150 million but the design remains unchanged.
-
+- ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia is the fear of very long words
 
 <div>
   <h3> 💻 Languages and Tools </h3>
-  <p>
+  <p align="center">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70"><img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50"><img src="https://media.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif" width="50">
   <p>
 </div> 
   
-
-<h3>🛠 Badges</h3>
-
-<img src="[https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif](https://images.credly.com/images/89d195a7-03a9-4d84-81d3-46d485556226/UXUI_-_Elevate.png)" width="50">
-
-
-<br>
-
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=keanbayneslow&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/keanbayneslow/github-readme-stats)
 
+</div>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
