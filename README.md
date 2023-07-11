@@ -1,7 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50" align="center">
+### Hey there! I'm Kean. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50" align="center">
 
 
 🚀 Unlocking New Frontiers: Transitioning Careers with Front-End Web Development & UI/UX Skills 🎨✨
+
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I'm currently enrolled in a Front-End BootCamp with Academy Xi in Sydney, Australia. 
 
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about literally anything you'd like. My answers might not be great, accurate or even on topic but life is a gamble. 
 
-- 😄 Pronouns: He/Him/Preacher Of Funk 
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: In 1974 it cost between $15 and $22 Million to build one space suit. Accounting for inflation the cost today is about $150 million but the design remains unchanged.
 
@@ -22,26 +24,10 @@
 </div> 
   
 
- <!-- <h2> Hey there! I'm Kean. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h3>🛠 Badges</h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img src="[https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif](https://images.credly.com/images/89d195a7-03a9-4d84-81d3-46d485556226/UXUI_-_Elevate.png)" width="50">
 
-- 🔭 &nbsp; I’m currently learning Front end Development (React and Angular)
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Project Management and UI/UX.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Dart |Typescript  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Figma
 
 <br>
 
