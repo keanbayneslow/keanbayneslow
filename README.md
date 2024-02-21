@@ -32,6 +32,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/keanbayneslow/github-readme-stats)
 </div>
 
+
+<div align="center">
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+</div>
+
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <div align="center">  
