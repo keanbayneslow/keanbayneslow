@@ -34,9 +34,10 @@
 
 
 <div align="center">
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)]
 </div>
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@kean.bayneslow)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
