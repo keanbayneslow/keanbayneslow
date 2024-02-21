@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/keanbayneslow/github-readme-stats)
 
-[![Kean Bayneslow Medium](https://github-readme-medium.vercel.app/?username=kean.bayneslow)](https://medium.com/@kean.bayneslow)
+[![Kean Bayneslow Medium](https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3)](https://medium.com/@kean.bayneslow)
 
 
 </div>
