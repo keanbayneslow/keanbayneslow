@@ -30,12 +30,12 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/keanbayneslow/github-readme-stats)
-</div>
 
-
-<div align="center">
 [![Kean Bayneslow Medium](https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2&bg=151515&text=daf7dc)](https://medium.com/@kean.bayneslow)
+
+
 </div>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
