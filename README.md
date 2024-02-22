@@ -1,6 +1,6 @@
 ## Hello there! I'm Kean
 
-<div align="center">
+<div>
 Welcome to my GitHub! 
 You are seeing a live line-by-line learning and growth experience as I discover the magic of programming. Jump in and let's build something awesome together.
 </div>
