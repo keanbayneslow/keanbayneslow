@@ -29,8 +29,8 @@ You are seeing a live line-by-line learning and growth experience as I discover 
 
 ### Latest Blog Articles
 
-<div align="center"
-  <a href="https://medium.com/@kean.bayneslow" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3" width="50%" /></a>
+<div align="center">
+  <a href="https://medium.com/@kean.bayneslow" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3" style="display: flex; flex-direction: row;" /></a>
 </div>
 
 ### Let's get connected
