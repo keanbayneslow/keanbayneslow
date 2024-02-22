@@ -44,8 +44,7 @@
 
 <div align="center">  
   &nbsp; <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="30" /></a>
-  &nbsp; <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="30" /></a>
+
+
+ &nbsp; <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer"> ![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/24adbdc0-cbde-43bd-8ba3-a5451177bf54) </a>
 </div>
-
-
-![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/24adbdc0-cbde-43bd-8ba3-a5451177bf54)
