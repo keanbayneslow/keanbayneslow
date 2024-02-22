@@ -1,6 +1,8 @@
-### Hey there! I'm Kean. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50" align="center">
+### Hey there! I'm Kean. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="30" height="30">
 
+<div align="center">
 🚀 **Unlocking New Frontiers:** Transitioning Careers with Front-End Web Development & UI/UX Skills 🎨✨
+</div>
 
 ### 👨🏻‍💻 About Me
 
@@ -12,14 +14,14 @@
 ### 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif" width="50">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="30">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="30">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="30">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif" width="30">
 </p>
 
 <div align="center">
@@ -37,8 +39,8 @@
 ### 🤝🏻 Connect with Me
 
 <div align="center">  
-  &nbsp; <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  &nbsp; <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="30" /></a>
+  &nbsp; <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="30" /></a>
 </div>
 
 ⭐️ From [Kean Bayneslow](https://github.com/keanbayneslow)
