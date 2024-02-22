@@ -27,10 +27,12 @@ You are seeing a live line-by-line learning and growth experience as I discover 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github languages">
 </div>
 
-### Latest Blog Articles
+## Latest Blog Articles
 
 <div align="center">
-  <a href="[https://medium.com/@kean.bayneslow](https://medium.com/@kean.bayneslow)" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2" width="50%" /></a>
+  <a href="https://medium.com/@kean.bayneslow" target="_blank">
+    <img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2" onerror="this.onerror=null; this.src='https://github.com/keanbayneslow/keanbayneslow/blob/main/assets/73255868/d7656c91-575a-49bd-a383-0ad49636e0bc.jpg';" width="50%" />
+  </a>
 </div>
 
 
