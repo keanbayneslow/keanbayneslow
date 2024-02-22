@@ -44,10 +44,10 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/keanbayneslow/keanbayneslow/blob/main/assets/73255868/2cd36393-7b9b-4fdd-ad9d-f1b8bf6970ae.png?raw=true" width="30" />
+    <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/85790846-59c0-44c9-9921-91cf0d2fccf3)" width="40" />
   </a>
 
   <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/3e809d85-0b1b-4c20-a9d7-2ffca528eb5e)" width="30" />
+    <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/3e809d85-0b1b-4c20-a9d7-2ffca528eb5e)" width="40" />
   </a>
 </div>
