@@ -33,6 +33,8 @@ You are seeing a live line-by-line learning and growth experience as I discover 
   <a href="https://medium.com/@kean.bayneslow" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3" width="50%" /></a>
 </div>
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@omidnikrah)
+
 ### Let's Get Connected
 
 <div align="center">  
