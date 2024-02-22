@@ -43,8 +43,11 @@
 ### Connect with Me
 
 <div align="center">  
-&nbsp; <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer" ![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/2cd36393-7b9b-4fdd-ad9d-f1b8bf6970ae) ></a>
+  <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/keanbayneslow/keanbayneslow/blob/main/assets/73255868/2cd36393-7b9b-4fdd-ad9d-f1b8bf6970ae.png?raw=true" width="30" />
+  </a>
 
-<a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer" ![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/7c0cb2f4-b1aa-460e-980c-bc3c798857ba)
-
-![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/2cd36393-7b9b-4fdd-ad9d-f1b8bf6970ae)
+  <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/keanbayneslow/keanbayneslow/blob/main/assets/73255868/7c0cb2f4-b1aa-460e-980c-bc3c798857ba.png?raw=true" width="30" />
+  </a>
+</div>
