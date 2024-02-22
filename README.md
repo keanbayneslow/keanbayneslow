@@ -23,10 +23,8 @@ You are seeing a live line-by-line learning and growth experience as I discover 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keanbayneslow&include_all_commits=true&contributions=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github Stats">
-</div>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github languages">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github languages">
 </div>
 
 ### Latest Blog Articles
