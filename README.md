@@ -5,7 +5,7 @@ Welcome to my GitHub!
 You are seeing a live line-by-line learning and growth experience as I discover the magic of programming. Jump in and let's build something awesome together.
 </div>
 
-### What I use
+### What I Use
 
 <div align="center">
 <p align="center">
@@ -19,7 +19,7 @@ You are seeing a live line-by-line learning and growth experience as I discover 
 </p>
 </div>
 
-### Stats for geeks
+### Stats For Geeks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keanbayneslow&include_all_commits=true&contributions=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github Stats">
@@ -33,7 +33,7 @@ You are seeing a live line-by-line learning and growth experience as I discover 
   <a href="https://medium.com/@kean.bayneslow" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3" style="display: flex; flex-direction: row;" /></a>
 </div>
 
-### Let's get connected
+### Let's Get Connected
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/kean-bayneslow/" target="_blank" rel="noopener noreferrer">
