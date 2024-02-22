@@ -48,7 +48,6 @@
   </a>
 
   <a href="mailto:kean.bayneslow@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="![image](https://github.com/keanbayneslow/keanbayneslow/assets/73255868/3e809d85-0b1b-4c20-a9d7-2ffca528eb5e)
-" width="30" />
+    <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/3e809d85-0b1b-4c20-a9d7-2ffca528eb5e)" width="30" />
   </a>
 </div>
