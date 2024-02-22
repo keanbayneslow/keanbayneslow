@@ -8,7 +8,6 @@
 
 - 🔭 Currently enrolled in a Front-End BootCamp with Academy Xi in Sydney, Australia.
 - 🌱 Learning React and Angular - Projects to follow soon. [Watch this space](#).
-
 - ⚡ Fun fact: Hippopotomonstrosesquippedaliophobia is the fear of very long words.
 
 ### 💻 Languages and Tools
@@ -33,7 +32,7 @@
 <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/keanbayneslow/github-readme-stats)
   
-  [![Kean Bayneslow Medium](https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3)](https://medium.com/@kean.bayneslow)
+  <a href="https://medium.com/@kean.bayneslow" target="_blank"><img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=3" width="100%" /></a>
 </div>
 
 ### 🤝🏻 Connect with Me
