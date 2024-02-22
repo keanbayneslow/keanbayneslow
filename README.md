@@ -26,7 +26,7 @@ You are seeing a live line-by-line learning and growth experience as I discover 
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/keanbayneslow/github-readme-stats)" alt="keanbayneslow's Github languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanbayneslow&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40" alt="keanbayneslow's Github languages">
 </div>
 
 ### Latest Blog Articles
