@@ -31,9 +31,11 @@ You are seeing a live line-by-line learning and growth experience as I discover 
 
 <div align="center">
   <a href="https://medium.com/@kean.bayneslow" target="_blank">
-    <img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2" onerror="this.onerror=null; this.src='https://github.com/keanbayneslow/keanbayneslow/blob/main/assets/73255868/d7656c91-575a-49bd-a383-0ad49636e0bc.jpg';" width="50%" />
+    <img src="https://github-readme-medium.vercel.app/?username=kean.bayneslow&limit=2" onerror="this.onerror=null; this.src='https://github.com/keanbayneslow/keanbayneslow/assets/73255868/c42ef1da-8901-499a-b1f2-da95fe720458';" width="50%" />
   </a>
 </div>
+
+
 
 
 
