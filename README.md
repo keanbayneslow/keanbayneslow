@@ -1,4 +1,4 @@
-## Hello there! I'm Kean
+# Hello there! I'm Kean
 
 <div>
 Welcome to my GitHub! 
