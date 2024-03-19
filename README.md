@@ -16,6 +16,7 @@ You are seeing a live line-by-line learning and growth experience as I discover 
   <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/d7e856e4-7223-4f62-95d3-203531e77954" width="40">
   <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/32626054-ebd0-43d7-a163-89065a765832" width="40">
   <img src="https://github.com/keanbayneslow/keanbayneslow/assets/73255868/ef9e1b05-eb55-4691-b3d5-c29927c12271" width="40">
+  <img src="https://icons8.com/icon/jD-fJzVguBmw/redux" width="40>
 </p>
 </div>
 
